@@ -75,7 +75,4 @@ while True:
 print("Enter your username and password\n")
 username = input("Username: ")
 password = input("Password: ")
-
-
-
-
+print("game")
